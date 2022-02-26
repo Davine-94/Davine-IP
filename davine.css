@@ -9,4 +9,32 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#dav .navi{
+    font-style: inherit;
+    font-size: 20px;
+    text-decoration: none;
+    color: chocolate;
+    border: chocolate 1px;
+    padding:10px 20px;
+    border-radius: 10px;
+}
+
+#dav .navi:hover{
+    background: chocolate;
+    color: azure;
+
+}
+
+.mywork {
+    padding: 20px;
+    background-image: url(https://images.unsplash.com/photo-1511140973288-19bf21d7e771?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+    height: 100vh;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
