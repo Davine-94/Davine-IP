@@ -67,13 +67,23 @@ body {
     align-items: center;
 }
 
-.table:hover {
+.nalah:hover {
     background: chocolate;
     color: azure;
     text-decoration: none;
     border-radius: 10px;
     margin: 25px 0;
 }
-.table 
+.nalah:thead {
+    background-color: coral;
+    color: aliceblue;
+}
 
-
+.newid:hover {
+    width: 200px;
+    color: bisque;
+    padding: 20px;
+    box-shadow: 0 0 15px 4px rgba;
+    border-radius: 10px;
+    margin: 25px 0;
+}
