@@ -107,6 +107,12 @@ body {
     animation: alternate-reverse;
     display: inline-block;
 }
-#phylis .meet {
-    display: flex;
+
+.contactpage.socialmedia { color: darkslategray;
+    text-decoration: none;
+
+}
+.contactpage.socialmedia:hover
+{color: grey;
+
 }
