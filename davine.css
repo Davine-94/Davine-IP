@@ -87,3 +87,26 @@ body {
     border-radius: 10px;
     margin: 25px 0;
 }
+
+.contactpage{
+    
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://i.pinimg.com/564x/9c/2b/d0/9c2bd05a029c9b421f493b1133bb2f37.jpg");
+    height: 100vh;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact {
+    text-transform: uppercase;
+    background-image: linear-gradient();
+    color: chocolate;
+    animation: alternate-reverse;
+    display: inline-block;
+}
+#phylis {
+    display: flex;
+}
