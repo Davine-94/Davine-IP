@@ -73,12 +73,12 @@ body {
 .meet {
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("https://i.pinimg.com/564x/c2/1f/19/c21f19120528f3c31f7817cf7e6d649b.jpg");
+    background-image: url("https://i.pinimg.com/564x/cc/51/19/cc511933697f086b6068aebfbd42b5f1.jpg");
     height: 100vh;
     color: black;
     text-align: center;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
 }
 
 .nalah:hover {
