@@ -107,6 +107,6 @@ body {
     animation: alternate-reverse;
     display: inline-block;
 }
-#phylis {
+#phylis .meet {
     display: flex;
 }
