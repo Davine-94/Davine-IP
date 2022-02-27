@@ -13,10 +13,12 @@ body {
     align-items: center;
 }
 #dav h1{
+    display: flex;
     font-style: inherit;
     font-size: 30px;
-    text-decoration: double;
-    color:chocolate;
+    text-decoration: underline;
+    text-shadow: 2px 2px 1px brown;
+    color:black;
     border: chocolate 1px;
     padding: 10px 20px;
     border-radius: 10px;
