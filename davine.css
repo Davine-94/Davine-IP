@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
     }
 #dav {
-    background-image: url("https://i.pinimg.com/564x/5e/5c/b2/5e5cb22b6fb50ed9842ac82e5e27bf0d.jpg");
+    background-image: url("https://i.pinimg.com/564x/54/9e/71/549e7103e9bcbcb752262bcaa0995048.jpg");
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -15,15 +15,15 @@ body {
 #dav h1{
     display: flex;
     font-style: inherit;
-    font-size: 40px;
+    font-size: 20px;
     text-decoration: navajowhite;
     text-shadow: 1px 1px 1px white;
     color:black;
     border: chocolate 1px;
     padding: 10px 20px;
     border-radius: 10px;
-    background-image: url("https://images.pexels.com/photos/4195328/pexels-photo-4195328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
-    height: 80vh;
+    background-image: url("https://i.pinimg.com/564x/1b/73/7b/1b737becfdf0181aa9674bca2d166360.jpg");
+    height: 40vh;
     font-family: Arial, Helvetica, sans-serif;
 }
 #dav .navi{
