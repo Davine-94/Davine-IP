@@ -122,11 +122,11 @@ body {
     display: inline-block;
 }
 
-.contactpage.socialmedia { color: darkslategray;
+.contactpage.socialmedia { color: brown;
     text-decoration: none;
 
 }
 .contactpage.socialmedia:hover
-{color: grey;
+{color: gray;
 
 }
