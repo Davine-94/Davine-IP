@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
     }
 #dav {
-    background-image: url("https://i.pinimg.com/736x/a9/98/0b/a9980b9da9c0735a548c22bd8d7fc57d.jpg");
+    background-image: url("https://i.pinimg.com/564x/5e/5c/b2/5e5cb22b6fb50ed9842ac82e5e27bf0d.jpg");
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -15,16 +15,16 @@ body {
 #dav h1{
     display: flex;
     font-style: inherit;
-    font-size: 30px;
-    text-decoration: underline;
+    font-size: 40px;
+    text-decoration: navajowhite;
     text-shadow: 1px 1px 1px white;
     color:black;
     border: chocolate 1px;
     padding: 10px 20px;
     border-radius: 10px;
-    background-image: url("https://i.pinimg.com/236x/4e/ea/89/4eea8910ee8231a5a593822e102ce890.jpg");
-    height: 20vh;
-    font-family: cursive;
+    background-image: url("https://images.pexels.com/photos/4195328/pexels-photo-4195328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    height: 30vh;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #dav .navi{
     font-style: inherit;
@@ -46,7 +46,7 @@ body {
 .mywork {
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("https://i.pinimg.com/564x/05/f0/3b/05f03b4c1067448464539de1626c5b4f.jpg");
+    background-image: url("https://i.pinimg.com/564x/c7/d3/1b/c7d31bba02c3d9104c5545fd755eb6b8.jpg");
     height: 100vh;
     color: white;
     text-align: center;
@@ -73,7 +73,7 @@ body {
 .meet {
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("https://i.pinimg.com/564x/d9/86/69/d986697b528c06372069375dd110edca.jpg");
+    background-image: url("https://i.pinimg.com/564x/8d/88/a8/8d88a82f3921090167cb0b90e81e1aee.jpg");
     height: 100vh;
     color: black;
     text-align: center;
